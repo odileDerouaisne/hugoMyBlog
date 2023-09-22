@@ -1,0 +1,2 @@
+# hugoMyBlog
+test hugo 
